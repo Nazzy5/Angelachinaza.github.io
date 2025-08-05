@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sarah Johnson - Virtual Assistant</title>
+    <title>Angela Okoli - Virtual Assistant</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
@@ -21,7 +21,7 @@
     <nav class="bg-white shadow-lg fixed w-full top-0 z-50">
         <div class="max-w-6xl mx-auto px-4">
             <div class="flex justify-between items-center py-4">
-                <div class="text-2xl font-bold text-gray-800">Sarah Johnson</div>
+                <div class="text-2xl font-bold text-gray-800">Angela Okoli</div>
                 <div class="hidden md:flex space-x-8">
                     <a href="#home" class="text-gray-600 hover:text-purple-600 transition duration-300">Home</a>
                     <a href="#about" class="text-gray-600 hover:text-purple-600 transition duration-300">About</a>
